@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5549bd4b8cac9ddc9adff3f441aa87f0",
+    "revision": "5d5a8d0c9d5c398ecf5ebc99fc5debd7",
     "url": "/monsters-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-app/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "9f689ca1f2b1f1283c54",
+    "revision": "f2d228b1ab1ae4e15903",
     "url": "/monsters-app/static/css/main.63a74c7e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-app/static/js/2.7360ae8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f689ca1f2b1f1283c54",
-    "url": "/monsters-app/static/js/main.7d023933.chunk.js"
+    "revision": "f2d228b1ab1ae4e15903",
+    "url": "/monsters-app/static/js/main.1e53880a.chunk.js"
   },
   {
     "revision": "7138d42281881b672924",
